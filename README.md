@@ -1,21 +1,32 @@
-<!-- ### Hi there 👋 -->
-
-<!-- ![Image](https://https://github.com/adiainthesky/adiainthesky/blob/main/assets/image.jpg) -->
-<!-- ![Image](<img src=”header.png” alt=”alt text” width=”200"/>) -->
-<!-- <img src="header.png" alt=”alt text” width=”200"/> -->
 ![header](https://github.com/adiainthesky/adiainthesky/blob/main/header.png)
 
-<!--
-**adiainthesky/adiainthesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello!**  My name is Adelaide and I am currently a Full Stack Software Developer Student at [Ada Developers Academy](https://adadevelopersacademy.org/).  I am also a fulltime Software Developer Intern at [Indeed](https://indeed.com/) where I work on the Recruiting Automation team. 
 
-Here are some ideas to get you started:
+**Languages and tools I work with and am continually learning:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent.png"></code>
+<code><img height="40" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+<code><img height="40" src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/image.png"></code>
+  
+
+
+
+
+
+<!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: ... -->
+
