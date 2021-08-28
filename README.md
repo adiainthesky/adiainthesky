@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=”header.jpg” alt=”alt text” width=”100"/>
+“https://github.com/adiainthesky/adiainthesky/blob/main/assets/image.jpg”
 
 <!--
 **adiainthesky/adiainthesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
