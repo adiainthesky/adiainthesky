@@ -15,7 +15,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
-<code><img height="40" src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/image.png"></code>
+<code><img height="25" src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/image.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leaflet_logo.svg/800px-Leaflet_logo.svg.png"></code>
   
 
 
