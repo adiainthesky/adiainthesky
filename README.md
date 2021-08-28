@@ -1,7 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-![alt text](https://https://github.com/adiainthesky/adiainthesky/blob/main/assets/image.jpg “add your alt text”)
-
+<!-- ![Image](https://https://github.com/adiainthesky/adiainthesky/blob/main/assets/image.jpg) -->
+<!-- ![Image](<img src=”header.png” alt=”alt text” width=”200"/>) -->
+<!-- <img src="header.png" alt=”alt text” width=”200"/> -->
+![header](https://github.com/adiainthesky/adiainthesky/blob/main/header.png)
 
 <!--
 **adiainthesky/adiainthesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
