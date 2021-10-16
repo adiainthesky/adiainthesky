@@ -1,6 +1,6 @@
 ![header](https://github.com/adiainthesky/adiainthesky/blob/main/header.png)
 
-**Hello!**  My name is Adelaide and I am currently a Full Stack Software Developer Student at [Ada Developers Academy](https://adadevelopersacademy.org/).  I am also a fulltime Software Developer Intern at [Indeed](https://indeed.com/) where I work on the Requirements and Screening team. 
+**Hello!**  My name is Adelaide and I am currently a Full Stack Software Engineering Student at [Ada Developers Academy](https://adadevelopersacademy.org/).  I am also a fulltime Software Engineering Intern at [Indeed](https://indeed.com/) where I work on the Requirements and Screening team. 
 
 **Languages and tools I work with and am continually learning:**
 
